@@ -1,0 +1,54 @@
+.yaho
+{
+    margin-left: 40%;
+}
+.sign
+{
+    margin-left: 45%;
+    padding-top: 5vh;
+    font-family: "yahoo sans";
+}
+.text
+{
+    margin-left: 40%;
+}
+.placeholder
+{
+    outline-width: 0;
+    margin-left: 37%;
+    padding: 1vh;
+    padding-left: 10vh;
+}
+.btn
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5vh;
+    margin-left: 43%;
+    padding-left: 10vh;
+    border-radius: 10%;
+    background-color: #4949ee;
+    color: white;
+}
+.forgot
+{
+    margin-left: 41.3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.newbtn
+{
+    margin-left: 39% ;
+    padding: 1vh;
+  padding-left: 15vh;
+}
+.cont
+{
+ margin-left: 39% ;
+ padding-left: 15vh;
+}
+.google
+{
+    margin-left: 39%;
+    padding-left: 15vh;
+
+}
